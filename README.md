@@ -4,7 +4,7 @@ A machine learning web app that predicts life expectancy based on
 health, economic, and demographic indicators from the WHO dataset.
 
 ## 🔗 Live App
-[Life Expectancy Prediction](https://life-expectancy-prediction.streamlit.app)
+[Life Expectancy Prediction](https://life-expectancy-predictionapp.streamlit.app/)
 
 ## 📊 Dataset
 - Source: WHO Life Expectancy Dataset (Kaggle)
